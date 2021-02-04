@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there. I'm Rhys 👋 </h1>
 
-- 🔭 I’m currently working on [UniversityGradeCalculator](https://github.com/TheRealDougie1/UniversityGradeCalculator).
+- 🔭 I’m currently working on [MusicMakesYouRunFaster](https://github.com/TheRealDougie1/MusicMakesYouRunFaster).
 - 🌱 I’m currently learning Python and TypeScript, and refining my C# skills.
 - ⭐ I'm actively applying for roles as a Graduate Software Developer.
 
