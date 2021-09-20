@@ -1,8 +1,7 @@
 <h1 align="center"> Hi there. I'm Rhys 👋 </h1>
 
-- 🔭 I’m currently working on [MusicMakesYouRunFaster](https://github.com/TheRealDougie1/MusicMakesYouRunFaster).
-- 🌱 I’m currently learning Python and TypeScript, and refining my C# skills.
-- ⭐ I'm actively applying for roles as a Graduate Software Developer.
+- 🔭 I’m currently working on [Secret Santa](https://github.com/TheRealDougie1/secret-santa).
+- 🌱 I’m currently refining my C# skills, and looking to further my skills as a full stack developer.
 
 <h2 align="center"> Github Stats</h2>
 
