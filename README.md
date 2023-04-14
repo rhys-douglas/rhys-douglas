@@ -7,7 +7,7 @@
 
 <!-- Credit to https://github.com/anuraghazra/ for providing this! -->
 <p align="center">
-  <a href ="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealDougie1&layout=compact&theme=material-palenight" alt="TheRealDougie1" /> </a>
+  <a href ="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhys-douglas&layout=compact&theme=material-palenight" alt="rhys-douglas" /> </a>
 </p>
 
 <h2 align="center"> Socials </h2>
